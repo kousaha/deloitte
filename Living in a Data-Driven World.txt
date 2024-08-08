@@ -1,0 +1,145 @@
+Welcome to this lesson:
+Living in a Data-Driven World.
+You need no more evidence that we're all living
+in a data-driven world than to, oh, sorry.
+Let me just accept this, here.
+Where was I?
+Oh, right.
+No more evidence than to just open your browser
+and go to virtually any site to experience how,
+not only are companies collecting your data
+but they're also pushing their,
+darn, let me block this.
+Really hate those notifications, don't you?
+Ugh, anyway.
+And what's more,
+sometimes the data they want to collect is pretty personal,
+and well, you know, doesn't make a whole lot of, ah!
+Doesn't make a whole lot of sense. (laughs)
+Well, somehow, I'm pretty sure
+you all know what I'm talking about.
+So, let me cut this intro short
+and dive into the topics that we're going to be covering.
+So, given that this barrage of data
+both coming and going is pretty consistent and growing,
+it begs the question, why?
+Well, it's because the data has a tremendous amount of value
+and we need to talk about that worth.
+Then we'll look at the challenges of handling data
+in a traditional manner.
+You can probably guess the following topic,
+can't you, cowpoke?
+The advantages of working with data in the cloud.
+But it's not all no-holds-barred.
+With great data power comes great data responsibility.
+Wow, that sounds familiar, doesn't it?
+Probably something somebody's uncle said once or something.
+So, before I let you go,
+I'm going to round up the most important points
+for you to take away.
+Let's get started before another popup pops up, shall we?
+Data is everywhere, but for companies,
+it's helpful to arrange it into 3 different groups
+to best pinpoint where it comes from.
+There is a lot of data generated
+from within any organization,
+including from the financials,
+where all the money is flowing from.
+Production, how the services or the products
+are actually made.
+Logistics, how those resources get tapped
+and the final services or products get pushed out.
+Quality, are things up to par
+or are they lacking a little bit?
+And of course, testing,
+making sure that everything
+is just the way you want it to be.
+But your company is very likely
+not to be alone in the marketplace.
+So, there is industry data waiting for you,
+such as benchmarks, comparisons, standards,
+and compliance regulations,
+and last, but definitely not least, are your customers.
+Just a sampling of the available data from them
+includes their location,
+the frequency that they interact with you,
+any direct actions that they may have taken,
+and cross-references to other factors and data.
+But this data does not come to the company
+automatically or easily.
+Data exists in a number of formats,
+including spreadsheets, documents, images, and videos.
+And no matter what format it is in originally,
+to be truly useful, it has to be converted to digital data.
+For companies still rooted in a traditional infrastructure,
+dealing with digital data can bring all sorts of headaches.
+Companies find that they have to process
+great amounts of data,
+and as we've just saw, it's in varying formats.
+And processing this data means that your resources
+need to be able to scale on demand, both up and down.
+And as that data keeps coming in,
+you need to store it, retrieve it, and analyze it.
+And to really get the most out of it,
+you need to make predictions based on the historical
+as well as any newly incoming data.
+Now, compare that to data in the cloud.
+Here, there are a number of real advantages.
+First, there is global redundancy
+that helps keep the data safe and available.
+Moreover, you can scale the resources
+to handle the data both vertically,
+meaning giving more processing power or RAM to your systems,
+or horizontally, meaning you can add more servers.
+And the scaling can go both up and down.
+Plus, faster processing enables
+real-time collection and analysis,
+and all of this opens possibilities for advanced analysis
+where you compare your multiple datasets,
+those 3 we talked about,
+internal data, industry data, and user data.
+And beyond, that these datasets can be intersecting,
+which opens the door to even deeper understanding.
+For example, you could find an intersection
+between company expenditures in one region
+that lead to decreased customer churn in another.
+All this availability of data
+does have ramifications, though.
+As an organization,
+you're responsible on a number of different fronts.
+First, there are ethical concerns.
+Just because you can gather all the data,
+that doesn't mean that you should.
+Businesses have to be responsible.
+You also have to be aware of privacy.
+Personal data has to be protected
+all the way from collection to storage.
+It's important that your company follow regulations.
+There are numerous regulations, of course,
+which vary all around the world.
+And to stay in business,
+they have to be followed regarding the use
+of the data you have collected.
+Moreover, you have to ensure security,
+because once the data resides in the cloud,
+the organization that collected it
+is responsible for protecting it against any threats.
+Data is really the fuel
+driving the age of digital transformation,
+and its proper integration is critical
+to a successful cloud implementation.
+Here are the most important points
+you'll want to keep in mind from this lesson.
+Digital data is available at an ever-increasing rate
+from 3 different sectors,
+internal to the business, from the business's industry,
+and from the customer.
+Data processing and management made available in the cloud
+overcomes many of the disadvantages
+of traditional data management,
+including storage, analysis, and prediction.
+Organizations must maintain responsibility
+over the collection and management of data
+regarding all ethical, privacy, regulatory,
+and security concerns.
+Let's move on to the next lesson.
